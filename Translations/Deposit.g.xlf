@@ -1,0 +1,654 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Deposit">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3029960778 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deposit Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 592951229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Amount (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 474338101 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Include VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Amount Include Vat - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 3840127264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Include (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Amount Include Vat (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 2258106635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clear Deposit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Clear Deposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 2324056710 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Factor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Currency Factor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 298233940 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer/Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Customer/Vendor Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 1842924812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer/Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Customer/Vendor No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 580412389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Document Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 1527563463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field External Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 3852983238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field G/L Account No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 579454664 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ref. Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Ref. Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 550334811 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ref. Document Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Ref. Document Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 4089281324 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ref. Template Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Ref. Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 3220827225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Used</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Used - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 4079997794 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vat Bus. Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Vat Bus. Posting Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3029960778 - Field 568771725 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vat Prod. Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DSVC Deposit Entry - Field Vat Prod. Posting Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3029960778 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deposit Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Deposit Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3029960778 - Control 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Deposit Entry - Control Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3029960778 - Control 592951229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Amount (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Deposit Entry - Control Amount (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3029960778 - Control 474338101 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Amount Include Vat</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Deposit Entry - Control Amount Include Vat - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3029960778 - Control 3840127264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Amount Include Vat (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Deposit Entry - Control Amount Include Vat (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3029960778 - Control 2258106635 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Clear Deposit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Deposit Entry - Control Clear Deposit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3029960778 - Control 4198939294 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Deposit Entry - Control Currency Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3029960778 - Control 298233940 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Customer/Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Deposit Entry - Control Customer/Vendor Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3029960778 - Control 1842924812 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Customer/Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Deposit Entry - Control Customer/Vendor No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3029960778 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Deposit Entry - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3029960778 - Control 580412389 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Deposit Entry - Control Document Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3029960778 - Control 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Deposit Entry - Control Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3029960778 - Control 2363328873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Deposit Entry - Control Document Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3029960778 - Control 1527563463 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies External Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Deposit Entry - Control External Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3029960778 - Control 3852983238 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies G/L Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Deposit Entry - Control G/L Account No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3029960778 - Control 3710982960 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Deposit Entry - Control Posting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3029960778 - Control 4079997794 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Vat Bus. Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Deposit Entry - Control Vat Bus. Posting Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3029960778 - Control 568771725 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Vat Prod. Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Deposit Entry - Control Vat Prod. Posting Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 932695428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get Deposit Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Get Deposit Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 932695428 - Control 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Get Deposit Entry - Control Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 932695428 - Control 592951229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Amount (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Get Deposit Entry - Control Amount (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 932695428 - Control 474338101 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Amount Include Vat</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Get Deposit Entry - Control Amount Include Vat - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 932695428 - Control 3840127264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Amount Include Vat (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Get Deposit Entry - Control Amount Include Vat (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 932695428 - Control 4198939294 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Get Deposit Entry - Control Currency Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 932695428 - Control 298233940 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Customer/Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Get Deposit Entry - Control Customer/Vendor Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 932695428 - Control 1842924812 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Customer/Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Get Deposit Entry - Control Customer/Vendor No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 932695428 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Get Deposit Entry - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 932695428 - Control 580412389 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Get Deposit Entry - Control Document Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 932695428 - Control 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Get Deposit Entry - Control Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 932695428 - Control 2363328873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Get Deposit Entry - Control Document Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 932695428 - Control 1527563463 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies External Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Get Deposit Entry - Control External Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 932695428 - Control 3852983238 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies G/L Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Get Deposit Entry - Control G/L Account No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 932695428 - Control 3710982960 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Get Deposit Entry - Control Posting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 932695428 - Control 4079997794 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Vat Bus. Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Get Deposit Entry - Control Vat Bus. Posting Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 932695428 - Control 568771725 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Vat Prod. Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Get Deposit Entry - Control Vat Prod. Posting Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1649362983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deposit Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Show Deposit Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1649362983 - Control 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Show Deposit Entry - Control Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1649362983 - Control 592951229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Amount (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Show Deposit Entry - Control Amount (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1649362983 - Control 474338101 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Amount Include Vat</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Show Deposit Entry - Control Amount Include Vat - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1649362983 - Control 3840127264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Amount Include Vat (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Show Deposit Entry - Control Amount Include Vat (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1649362983 - Control 2258106635 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Clear Deposit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Show Deposit Entry - Control Clear Deposit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1649362983 - Control 4198939294 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Show Deposit Entry - Control Currency Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1649362983 - Control 298233940 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Customer/Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Show Deposit Entry - Control Customer/Vendor Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1649362983 - Control 1842924812 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Customer/Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Show Deposit Entry - Control Customer/Vendor No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1649362983 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Show Deposit Entry - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1649362983 - Control 580412389 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Show Deposit Entry - Control Document Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1649362983 - Control 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Show Deposit Entry - Control Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1649362983 - Control 2363328873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Show Deposit Entry - Control Document Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1649362983 - Control 1527563463 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies External Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Show Deposit Entry - Control External Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1649362983 - Control 3852983238 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies G/L Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Show Deposit Entry - Control G/L Account No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1649362983 - Control 3710982960 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Show Deposit Entry - Control Posting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1649362983 - Control 4079997794 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Vat Bus. Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Show Deposit Entry - Control Vat Bus. Posting Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1649362983 - Control 568771725 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spacifies Vat Prod. Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSVC Show Deposit Entry - Control Vat Prod. Posting Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3119459054 - Control 3416727130 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Spacifies Deposit Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC Customer Card - Control DSVC Deposit Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3119459054 - Control 2764848411 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Spacifies Deposit Amount (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC Customer Card - Control DSVC Deposit Amount (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2830795333 - Control 2764848411 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3902691336">
+          <source>Show Summary Deposit Amount (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC Customer FactBox - Control DSVC Deposit Amount (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3626084696 - Control 1062885774 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4219821699">
+          <source>Spacifies Deposit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC GLAccount Card - Control DSVC Deposit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3648281267 - Action 1322661624 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3196174509">
+          <source>Get Deposit Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC Payment Journal - Action DSVC GetDeposit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3648281267 - Action 1322661624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3196174509">
+          <source>Get Deposit Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC Payment Journal - Action DSVC GetDeposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3648281267 - Control 1062885774 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3196174509">
+          <source>Spacifies Depost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC Payment Journal - Control DSVC Deposit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3648281267 - Control 3726574846 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3196174509">
+          <source>Spacifies Deposit Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC Payment Journal - Control DSVC Deposit Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3648281267 - Control 280027663 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3196174509">
+          <source>Spacifies Deposit Type No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC Payment Journal - Control DSVC Deposit Type No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3109842230 - Action 1322661624 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 896930563">
+          <source>Get Deposit Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC PurchaseInvoice Subform - Action DSVC GetDeposit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3109842230 - Action 1322661624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 896930563">
+          <source>Get Deposit Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC PurchaseInvoice Subform - Action DSVC GetDeposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 305611025 - Action 1322661624 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1638686336">
+          <source>Get Deposit Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC Receipt Journal - Action DSVC GetDeposit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 305611025 - Action 1322661624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1638686336">
+          <source>Get Deposit Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC Receipt Journal - Action DSVC GetDeposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 305611025 - Control 1062885774 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1638686336">
+          <source>Spacifies Depost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC Receipt Journal - Control DSVC Deposit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 305611025 - Control 3726574846 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1638686336">
+          <source>Spacifies Deposit Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC Receipt Journal - Control DSVC Deposit Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 305611025 - Control 280027663 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1638686336">
+          <source>Spacifies Deposit Type No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC Receipt Journal - Control DSVC Deposit Type No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2300741475 - Action 1322661624 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3689007477">
+          <source>Get Deposit Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC SalesInvoice Subform - Action DSVC GetDeposit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2300741475 - Action 1322661624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3689007477">
+          <source>Get Deposit Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC SalesInvoice Subform - Action DSVC GetDeposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 761088086 - Control 3416727130 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Spacifies Deposit Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC Vendor Card - Control DSVC Deposit Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 761088086 - Control 2764848411 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Spacifies Deposit Amount (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC Vendor Card - Control DSVC Deposit Amount (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 981926349 - Control 2764848411 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 518836496">
+          <source>Show Summary Deposit Amount (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSVC Vendor FactBox - Control DSVC Deposit Amount (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1630102442 - Field 3416727130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Deposit Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Customer - Field DSVC Deposit Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1630102442 - Field 2764848411 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Deposit Amount (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Customer - Field DSVC Deposit Amount (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2203936044 - Field 1062885774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4274826855">
+          <source>Deposit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC GL Account - Field DSVC Deposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1064023854 - Field 1903929237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 518488723">
+          <source>Clear Deposit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Purchase CN Line - Field DSVC Clear Deposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1064023854 - Field 1062885774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 518488723">
+          <source>Deposit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Purchase CN Line - Field DSVC Deposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1064023854 - Field 912535658 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 518488723">
+          <source>Ref. Deposit Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Purchase CN Line - Field DSVC Ref. Deposit Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 697346762 - Field 1903929237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2575310733">
+          <source>Clear Deposit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Purchase Invoice Line - Field DSVC Clear Deposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 697346762 - Field 1062885774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2575310733">
+          <source>Deposit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Purchase Invoice Line - Field DSVC Deposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 697346762 - Field 912535658 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2575310733">
+          <source>Ref. Deposit Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Purchase Invoice Line - Field DSVC Ref. Deposit Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 534780441 - Field 1903929237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Clear Deposit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Purchase Line - Field DSVC Clear Deposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 534780441 - Field 1062885774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Deposit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Purchase Line - Field DSVC Deposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 534780441 - Field 912535658 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Ref. Deposit Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Purchase Line - Field DSVC Ref. Deposit Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2001930995 - Field 1903929237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Clear Deposit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Sales CN Line - Field DSVC Clear Deposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2001930995 - Field 1062885774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Deposit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Sales CN Line - Field DSVC Deposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2001930995 - Field 912535658 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Ref. Deposit Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Sales CN Line - Field DSVC Ref. Deposit Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4290652439 - Field 1903929237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Clear Deposit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Sales Invoice Line - Field DSVC Clear Deposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4290652439 - Field 1062885774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Deposit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Sales Invoice Line - Field DSVC Deposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4290652439 - Field 912535658 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Ref. Deposit Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Sales Invoice Line - Field DSVC Ref. Deposit Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 868274952 - Field 1903929237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Clear Deposit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Sales Line - Field DSVC Clear Deposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 868274952 - Field 1062885774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Deposit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Sales Line - Field DSVC Deposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 868274952 - Field 912535658 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Ref. Deposit Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Sales Line - Field DSVC Ref. Deposit Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2711297458 - Field 3416727130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Deposit Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Vendor - Field DSVC Deposit Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2711297458 - Field 2764848411 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Deposit Amount (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DSVC Vendor - Field DSVC Deposit Amount (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3726574846 - EnumValue 2964504023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Receipt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DSVC Deposit Type - EnumValue Cash Receipt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3726574846 - EnumValue 3196174509 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Journal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DSVC Deposit Type - EnumValue Payment Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3726574846 - EnumValue 4042331808 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Credit Memo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DSVC Deposit Type - EnumValue Purchase Credit Memo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3726574846 - EnumValue 2437096118 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DSVC Deposit Type - EnumValue Purchase Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3726574846 - EnumValue 1708100201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Credit Memo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DSVC Deposit Type - EnumValue Sales Credit Memo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3726574846 - EnumValue 4034894651 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DSVC Deposit Type - EnumValue Sales Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 3592841035 - EnumValue 1610154708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 2023291264">
+          <source>Deposit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension DSVC EntryDocument Type - EnumValue Deposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 2731265411 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deposit Permission</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet DSVC DepositPermiss - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
