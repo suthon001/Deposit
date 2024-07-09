@@ -88,6 +88,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table TPP Deposit Entry - Field G/L Account No. - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3506863876 - Field 633819257 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vat Bus. Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TPP Deposit Entry - Field Gen. Bus. Posting Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3506863876 - Field 2139693550 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vat Prod. Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TPP Deposit Entry - Field Gen. Prod. Posting Group - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3506863876 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posting Date</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -117,6 +127,11 @@
           <source>Used</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table TPP Deposit Entry - Field Used - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3506863876 - Field 1806861730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vat %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TPP Deposit Entry - Field Vat % - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3506863876 - Field 4079997794 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Vat Bus. Posting Group</source>
@@ -693,10 +708,10 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">EnumExtension TPP EntryDocument Type - EnumValue Deposit - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PermissionSet 2558196265 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Deposit Permission</source>
+        <trans-unit id="PermissionSet 3702179677 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DepositPermiss</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet TPP DepositPermiss - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet DepositPermiss - Property Caption</note>
         </trans-unit>
       </group>
     </body>

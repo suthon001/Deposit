@@ -1,3 +1,6 @@
+/// <summary>
+/// Enum TPP Deposit Type (ID 70501).
+/// </summary>
 enum 70501 "TPP Deposit Type"
 {
     Extensible = true;

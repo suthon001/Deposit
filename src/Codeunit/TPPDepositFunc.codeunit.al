@@ -151,6 +151,9 @@ codeunit 70500 "TPP Deposit Func"
                 DepositEntry."Customer/Vendor No." := GenJnlLine."TPP Deposit Type No.";
                 DepositEntry.Description := GenJnlLine.Description;
                 DepositEntry."Clear Deposit" := GenJnlLine."TPP Clear Deposit";
+                DepositEntry."Vat %" := GenJnlLine."VAT %";
+                DepositEntry."Gen. Bus. Posting Group" := GenJnlLine."Gen. Bus. Posting Group";
+                DepositEntry."Gen. Prod. Posting Group" := GenJnlLine."Gen. Prod. Posting Group";
                 DepositEntry.Insert();
             until GenJnlLine.next() = 0;
 
@@ -203,6 +206,9 @@ codeunit 70500 "TPP Deposit Func"
                 DepositEntry."Amount Include Vat (LCY)" := DepositEntry."Amount Include Vat (LCY)" * -1;
                 DepositEntry."Clear Deposit" := true;
             end;
+            DepositEntry."Vat %" := PurchLine."VAT %";
+            DepositEntry."Gen. Bus. Posting Group" := PurchLine."Gen. Bus. Posting Group";
+            DepositEntry."Gen. Prod. Posting Group" := PurchLine."Gen. Prod. Posting Group";
             DepositEntry.Insert();
         end;
     end;
@@ -255,7 +261,9 @@ codeunit 70500 "TPP Deposit Func"
                 DepositEntry."Amount Include Vat (LCY)" := DepositEntry."Amount Include Vat (LCY)" * -1;
                 DepositEntry."Clear Deposit" := true;
             end;
-
+            DepositEntry."Vat %" := SalesLine."VAT %";
+            DepositEntry."Gen. Bus. Posting Group" := SalesLine."Gen. Bus. Posting Group";
+            DepositEntry."Gen. Prod. Posting Group" := SalesLine."Gen. Prod. Posting Group";
             DepositEntry.Insert();
         end;
     end;

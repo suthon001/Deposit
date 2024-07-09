@@ -19,7 +19,7 @@ table 70500 "TPP Deposit Entry"
             Caption = 'Document Type';
             DataClassification = CustomerContent;
         }
-        field(3; "Document No."; Code[30])
+        field(3; "Document No."; Code[20])
         {
             Caption = 'Document No.';
             DataClassification = CustomerContent;
@@ -128,6 +128,21 @@ table 70500 "TPP Deposit Entry"
         field(24; "Type"; Enum "TPP Deposit Type")
         {
             Caption = 'Type';
+            DataClassification = CustomerContent;
+        }
+        field(25; "Vat %"; Decimal)
+        {
+            Caption = 'Vat %';
+            DataClassification = CustomerContent;
+        }
+        field(26; "Gen. Prod. Posting Group"; Code[20])
+        {
+            Caption = 'Vat Prod. Posting Group';
+            DataClassification = CustomerContent;
+        }
+        field(27; "Gen. Bus. Posting Group"; Code[20])
+        {
+            Caption = 'Vat Bus. Posting Group';
             DataClassification = CustomerContent;
         }
     }
