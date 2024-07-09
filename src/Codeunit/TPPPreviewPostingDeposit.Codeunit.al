@@ -27,7 +27,7 @@ codeunit 70501 "TPP PreviewPosting Deposit"
     begin
         IF Rec.ISTEMPORARY THEN
             EXIT;
-        PostingPreview.PreventCommit();
+        //  PostingPreview.PreventCommit();
         TempDepositEntry := Rec;
         TempDepositEntry."Document No." := '***';
         TempDepositEntry.INSERT();
