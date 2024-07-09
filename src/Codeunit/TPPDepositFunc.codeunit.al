@@ -13,7 +13,7 @@ codeunit 70500 "TPP Deposit Func"
     /// <param name="pVendorCoustomerNo">Code[20].</param>
     /// <param name="pBatchName">code[30].</param>
 
-    procedure GetDepositEntry(pDepositType: Enum "TPP Deposit Type"; pTemplateName: Code[10]; pDocumentNo: Code[30]; pVendorCoustomerNo: Code[20]; pBatchName: code[30])
+    procedure GetDepositEntry(pDepositType: Enum "TPP Deposit Document Type"; pTemplateName: Code[10]; pDocumentNo: Code[30]; pVendorCoustomerNo: Code[20]; pBatchName: code[30])
     var
         DepositEntry: Record "TPP Deposit Entry";
         GetDeposit: Page "TPP Get Deposit Entry";
@@ -147,6 +147,7 @@ codeunit 70500 "TPP Deposit Func"
 
                     DepositEntry."Currency Code" := Cust."Currency Code";
                 end;
+                DepositEntry.Type := GenJnlLine."TPP Deposit Type";
                 DepositEntry."Customer/Vendor No." := GenJnlLine."TPP Deposit Type No.";
                 DepositEntry.Description := GenJnlLine.Description;
                 DepositEntry."Clear Deposit" := GenJnlLine."TPP Clear Deposit";
@@ -185,6 +186,7 @@ codeunit 70500 "TPP Deposit Func"
             DepositEntry.Description := PurchLine.Description;
             DepositEntry."Vat Bus. Posting Group" := PurchLine."VAT Bus. Posting Group";
             DepositEntry."Vat Prod. Posting Group" := PurchLine."Vat Prod. Posting Group";
+            DepositEntry.Type := DepositEntry.Type::Vendor;
             DepositEntry."Clear Deposit" := PurchLine."TPP Clear Deposit";
             if DepositEntry."Currency Code" <> '' then begin
                 DepositEntry."Amount (LCY)" := DepositEntry."Amount (LCY)" * (1 / DepositEntry."Currency Factor");
@@ -236,6 +238,7 @@ codeunit 70500 "TPP Deposit Func"
             DepositEntry."Clear Deposit" := SalesLine."TPP Clear Deposit";
             DepositEntry."Vat Bus. Posting Group" := SalesLine."VAT Bus. Posting Group";
             DepositEntry."Vat Prod. Posting Group" := SalesLine."Vat Prod. Posting Group";
+            DepositEntry.Type := DepositEntry.Type::Customer;
             if DepositEntry."Currency Code" <> '' then begin
                 DepositEntry."Amount (LCY)" := DepositEntry."Amount (LCY)" * (1 / DepositEntry."Currency Factor");
                 DepositEntry."Amount Include Vat (LCY)" := DepositEntry."Amount Include Vat (LCY)" * (1 / DepositEntry."Currency Factor");

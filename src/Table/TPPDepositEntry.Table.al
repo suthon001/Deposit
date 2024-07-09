@@ -14,7 +14,7 @@ table 70500 "TPP Deposit Entry"
             Caption = 'Entry No.';
             DataClassification = SystemMetadata;
         }
-        field(2; "Document Type"; Enum "TPP Deposit Type")
+        field(2; "Document Type"; Enum "TPP Deposit Document Type")
         {
             Caption = 'Document Type';
             DataClassification = CustomerContent;
@@ -123,6 +123,11 @@ table 70500 "TPP Deposit Entry"
         field(23; "Vat Bus. Posting Group"; Code[20])
         {
             Caption = 'Vat Bus. Posting Group';
+            DataClassification = CustomerContent;
+        }
+        field(24; "Type"; Enum "TPP Deposit Type")
+        {
+            Caption = 'Type';
             DataClassification = CustomerContent;
         }
     }

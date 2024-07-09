@@ -113,7 +113,7 @@ Page 70501 "TPP Get Deposit Entry"
     /// <param name="pTemplateName">Code[10].</param>
     /// <param name="pBatchName">code[30].</param>
     /// <param name="pDocumentNo">Code[30].</param>
-    procedure SetDepositDocument(pDepositType: Enum "TPP Deposit Type"; pTemplateName: Code[10]; pBatchName: code[30]; pDocumentNo: Code[30])
+    procedure SetDepositDocument(pDepositType: Enum "TPP Deposit Document Type"; pTemplateName: Code[10]; pBatchName: code[30]; pDocumentNo: Code[30])
     begin
         gvDepositType := pDepositType;
         gvTemplateName := pTemplateName;
@@ -248,7 +248,7 @@ Page 70501 "TPP Get Deposit Entry"
         PurchaseLine: Record "Purchase Line";
         DopositEntry: Record "TPP Deposit Entry";
         documentType: Enum "Purchase Document Type";
-        gvDepositType: Enum "TPP Deposit Type";
+        gvDepositType: Enum "TPP Deposit Document Type";
         gvdocumentNo, gvTemplateName, gvBatchName : Code[30];
 
         FromGenLine: Boolean;

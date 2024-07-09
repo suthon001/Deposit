@@ -41,7 +41,7 @@ pageextension 70503 "TPP Receipt Journal" extends "Cash Receipt Journal"
                 trigger OnAction()
                 var
                     DepositFunc: Codeunit "TPP Deposit Func";
-                    DepositType: Enum "TPP Deposit Type";
+                    DepositType: Enum "TPP Deposit Document Type";
                 begin
                     rec.TestField("Account Type", rec."Account Type"::Customer);
                     DepositFunc.GetDepositEntry(DepositType::"Cash Receipt", rec."Journal Template Name", rec."Journal Batch Name", rec."Account No.", rec."Journal Batch Name");

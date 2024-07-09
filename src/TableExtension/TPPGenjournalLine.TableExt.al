@@ -15,11 +15,9 @@ tableextension 70501 "TPP Genjournal Line" extends "Gen. Journal Line"
             Caption = 'Clear Deposit';
             DataClassification = CustomerContent;
         }
-        field(70502; "TPP Deposit Type"; Option)
+        field(70502; "TPP Deposit Type"; Enum "TPP Deposit Type")
         {
             Caption = 'Deposit Type';
-            OptionCaption = ' ,Customer,Vendor';
-            OptionMembers = " ","Customer",Vendor;
         }
         field(70503; "TPP Deposit Type No."; code[20])
         {

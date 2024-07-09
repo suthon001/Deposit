@@ -29,7 +29,7 @@ pageextension 70501 "TPP SalesInvoice Subform" extends "Sales Invoice Subform"
                 var
                     SalesHeader: Record "Sales Header";
                     DepositFunc: Codeunit "TPP Deposit Func";
-                    DepositType: Enum "TPP Deposit Type";
+                    DepositType: Enum "TPP Deposit Document Type";
 
                 begin
                     SalesHeader.GET(rec."Document Type", rec."Document No.");

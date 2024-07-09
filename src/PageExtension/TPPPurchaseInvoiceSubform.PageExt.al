@@ -27,7 +27,7 @@ pageextension 70500 "TPP PurchaseInvoice Subform" extends "Purch. Invoice Subfor
                 var
                     PurchaseHeader: Record "Purchase Header";
                     DepositFunc: Codeunit "TPP Deposit Func";
-                    DepositType: Enum "TPP Deposit Type";
+                    DepositType: Enum "TPP Deposit Document Type";
 
                 begin
                     PurchaseHeader.GET(rec."Document Type", rec."Document No.");

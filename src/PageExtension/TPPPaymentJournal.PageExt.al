@@ -40,7 +40,7 @@ pageextension 70502 "TPP Payment Journal" extends "Payment Journal"
                 trigger OnAction()
                 var
                     DepositFunc: Codeunit "TPP Deposit Func";
-                    DepositType: Enum "TPP Deposit Type";
+                    DepositType: Enum "TPP Deposit Document Type";
                 begin
                     rec.TestField("Account Type", rec."Account Type"::Vendor);
                     DepositFunc.GetDepositEntry(DepositType::"Payment Journal", rec."Journal Template Name", rec."Document No.", rec."Account No.", rec."Journal Batch Name");
