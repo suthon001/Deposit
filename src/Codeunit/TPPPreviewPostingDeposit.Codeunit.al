@@ -8,7 +8,6 @@ codeunit 70501 "TPP PreviewPosting Deposit"
     local procedure TPPOnAfterFillDocumentEntry(var DocumentEntry: Record "Document Entry");
     var
         PostingPreview: Codeunit "Posting Preview Event Handler";
-
     begin
 
         PostingPreview.InsertDocumentEntry(TempDepositEntry, DocumentEntry);
@@ -32,6 +31,28 @@ codeunit 70501 "TPP PreviewPosting Deposit"
         TempDepositEntry := Rec;
         TempDepositEntry."Document No." := '***';
         TempDepositEntry.INSERT();
+    end;
+
+    [EventSubscriber(ObjectType::Codeunit, Codeunit::"Sales-Post", 'OnBeforePostSalesDoc', '', false, false)]
+    local procedure OnBeforePostSalesDoc()
+    begin
+        TempDepositEntry.reset();
+        TempDepositEntry.DeleteAll();
+    end;
+
+    [EventSubscriber(ObjectType::Codeunit, Codeunit::"Purch.-Post", 'OnBeforePostPurchaseDoc', '', false, false)]
+    local procedure OnBeforePostPurchaseDoc()
+    begin
+        TempDepositEntry.reset();
+        TempDepositEntry.DeleteAll();
+    end;
+
+
+    [EventSubscriber(ObjectType::Codeunit, Codeunit::"Gen. Jnl.-Post", 'OnBeforeCode', '', false, false)]
+    local procedure OnBeforeCodeGen()
+    begin
+        TempDepositEntry.reset();
+        TempDepositEntry.DeleteAll();
     end;
 
     [EventSubscriber(ObjectType::Codeunit, Codeunit::"Gen. Jnl.-Post Preview", 'OnBeforeRunPreview', '', false, false)]
