@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+            "name": "TPPSandbox01",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "TPP_Sandbox001",
+            "startupObjectId": 9301,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "schemaUpdateMode": "ForceSync",
+            "enableSqlInformationDebugger": true,
+            "tenant": "a3f39fc8-3df5-4e7c-ae80-4f33b85d1e64"
+        }
+    ]
+}
